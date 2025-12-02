@@ -52,7 +52,7 @@
               "src/assets"
             ],
             "styles": [
-              "@angular/material/prebuilt-themes/purple-green.css",
+              "@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -92,7 +92,7 @@
             }
           },
           "options": {
-             "proxyConfig": "proxy.config.json"
+             "proxyConfig": "proxy.config.json" 
           },
           "defaultConfiguration": "development"
         },
@@ -117,7 +117,7 @@
               "src/assets"
             ],
             "styles": [
-              "@angular/material/prebuilt-themes/purple-green.css",
+              "@angular/material/prebuilt-themes/deeppurple-green.css",
               "src/styles.scss"
             ],
             "scripts": []
